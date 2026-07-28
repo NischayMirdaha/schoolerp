@@ -7,4 +7,5 @@ expo-env.d.ts
 node_modules
 .expo/
 .claude/
+.env.local
 
